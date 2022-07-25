@@ -2,7 +2,7 @@
 ## Bootstrap ile Instagram Clone
 ## Instagram Clone with Bootstrap
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59411109/180806925-1aca0d64-ed28-48ed-ba72-4d9bed492973.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59411109/180808047-bb72d8d6-cd0d-4ede-a0b1-8a7eb9824d0b.gif)
 
 
 
